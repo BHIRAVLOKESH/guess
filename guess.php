@@ -1,6 +1,8 @@
 <html>
 <body>
-<title>Bhirav Lokesh 07b90e91</title>
+<head>
+<title>BhiravLokesh 07b90e91</title>
+</head>
 <h1> Welcome to my guessing game</h1>
 
 <?php

@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Anamitra Musib 07b90e91</title>
+<title>07b90e91</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
